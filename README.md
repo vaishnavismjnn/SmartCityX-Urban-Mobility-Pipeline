@@ -18,9 +18,11 @@ The project processes multiple city datasets using a modern ETL pipeline, stores
 - Power BI Analytics Dashboards
 - Docker-based Deployment
 
-## Project Architecture
+<h2>Project Architecture</h2>
 
-![Architecture](architecture%20diagram/architecture.png)
+<p align="center">
+  <img src="architecture%20diagram/architecture.png" width="900">
+</p>
 
 
 ## Project Flow
