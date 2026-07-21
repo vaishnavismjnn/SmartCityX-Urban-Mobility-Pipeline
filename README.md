@@ -86,6 +86,6 @@ The processed data is stored using a Medallion Architecture:
 | Business Intelligence | Power BI |
 | Containerization | Docker |
 | Version Control | Git & GitHub |
-=======
+
 
 
