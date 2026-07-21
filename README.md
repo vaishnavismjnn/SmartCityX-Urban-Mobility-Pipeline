@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # SmartCityX – Urban Mobility & Public Operations Intelligence Platform
 
 ## Project Overview
@@ -72,4 +72,4 @@ The processed data is stored using a Medallion Architecture:
 - **Streamlit** displays live streaming data, KPIs, alerts, and real-time city operations.
 =======
 
->>>>>>> b86297ad20ecb78626ef1368f4cfdf49687676cf
+
