@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SmartCityX – Urban Mobility & Public Operations Intelligence Platform
 
 ## Project Overview
@@ -69,3 +70,6 @@ The processed data is stored using a Medallion Architecture:
 ### Step 8: Visualization
 - **Power BI** provides interactive analytical dashboards for historical and business insights.
 - **Streamlit** displays live streaming data, KPIs, alerts, and real-time city operations.
+=======
+
+>>>>>>> b86297ad20ecb78626ef1368f4cfdf49687676cf
